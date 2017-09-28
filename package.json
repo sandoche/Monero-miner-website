@@ -1,0 +1,25 @@
+{
+  "name": "monero-miner-website",
+  "version": "1.0.0",
+  "description": "A simple page to mine monero using Coin hive",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandoche/Monero-miner-website.git"
+  },
+  "keywords": [
+    "miner",
+    "monero",
+    "coinhive",
+    "singlepage"
+  ],
+  "author": "Sandoche ADITTANE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sandoche/Monero-miner-website/issues"
+  },
+  "homepage": "https://github.com/sandoche/Monero-miner-website#readme"
+}
