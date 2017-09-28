@@ -11,3 +11,6 @@ http://miner.learn.uno
 4. Copy the "Site Key (public)"
 5. Open `index.html` and replace `CG0PEeJ5RCwGcpdIc6QcnSAJdDJPWoio` with your API Key
 6. Publish
+
+## Buy me a beer
+Feel free to donate here in XMR (Monero): 43jqzMquW2q989UKSrB2YbeffhmJhbYb2Yxu289bv7pLRh4xVgMKj5yTd52iL6x1dvCYs9ERg5biHYxMjGkpSTs6S2jMyJn
