@@ -6,8 +6,8 @@ http://miner.learn.uno
 
 ## How to use
 1. Clone this repository, eventually after forking
-2. Create an account in [Coin-hive](https://coin-hive.com); don't foget to add a Monero wallet in Settings > Payments, you can use [MyMonero](https://mymonero.com/) if you want an online wallet
-3. Go in your Settings > Sites (or click [here](https://coin-hive.com/settings/sites))
+2. Create an account in [Coinhive](https://coinhive.com); don't foget to add a Monero wallet in Settings > Payments, you can use [MyMonero](https://mymonero.com/) if you want an online wallet
+3. Go in your Settings > Sites (or click [here](https://coinhive.com/settings/sites))
 4. Copy the "Site Key (public)"
 5. Open `index.html` and replace `CG0PEeJ5RCwGcpdIc6QcnSAJdDJPWoio` with your "Site Key (public)" (from step 4)
 6. Publish your `index.html`, `icon.png` and `manifest.json` (you can for example use gh-pages, surge, netlify they are all free)
