@@ -1,6 +1,9 @@
 # Monero-miner-website
 A simple page to mine monero using Coin hive
 
+## Demo
+http://miner.learn.uno
+
 ## How to use
 1. Clone this repository, eventually after forking
 2. Create an account in [Coin-hive](https://coin-hive.com)
