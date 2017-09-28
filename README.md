@@ -1,5 +1,5 @@
 # Monero-miner-website
-A simple page to mine monero using Coin hive
+A simple page to mine Monero using Coinhive from anywhere without having to login or to type commands
 
 ## Demo
 http://miner.learn.uno
