@@ -1,4 +1,8 @@
 # Monero-miner-website
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](/LICENSE)
+[![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label)](https://medium.com/@sandoche)
+[![Twitter: sandochee](https://img.shields.io/twitter/follow/sandochee.svg?style=social)](https://twitter.com/sandochee)
+
 A simple page to mine Monero (and make your friend mine for you) using Coinhive from anywhere without having to login or to type commands
 
 ## Demo
